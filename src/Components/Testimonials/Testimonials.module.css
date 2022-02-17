@@ -1,0 +1,16 @@
+.testimonials {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 20%;
+    background-color: rgb(92, 92, 92);
+    border-radius: 6px;
+    margin-bottom: 40px;
+}
+
+.notification {
+    color: white;
+    margin: 0;
+    padding: 40px;
+}

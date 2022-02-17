@@ -1,0 +1,27 @@
+.wrapper {
+    max-width: 380px;
+    border: 1px solid #cdcd;
+    border-radius: 6px;
+    padding: 15px;
+    margin: 20px 0 20px;
+}
+
+.title {
+    text-align: left;
+    margin-bottom: 20px;  
+};
+
+.notification {
+    text-align: justify;
+    margin: 40px;
+}
+
+.buttonWrap {
+    border-top:1px solid #cdcd ;
+}
+
+.button {
+    margin-top: 5px;
+};
+
+

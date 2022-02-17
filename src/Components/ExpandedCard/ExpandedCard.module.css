@@ -1,0 +1,17 @@
+.expandedCardWrap {
+    display: flex;
+    align-items: center;
+    margin-bottom: 40px;
+}
+.wrapper {
+    max-width: 380px;
+    
+    padding: 15px;
+    margin: 0 30px 0 30px;
+}
+
+.card {
+    width: 900px;
+    height: 400px;
+    background-color: #cdcd;
+}
