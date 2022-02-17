@@ -6,9 +6,7 @@ class Cards extends Component {
     render() {
         return (
             <div className={styles.Cards}>
-                <Card />
-                <Card />
-                <Card />
+                {this.props.cards.map(card => <Card key={card.id}{...card} />)}
             </div>
         );
     }
